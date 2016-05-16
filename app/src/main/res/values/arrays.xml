@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 定义目录页面数据 -->
+    <string-array name="menu">
+        <item>首页</item>
+        <item>文字</item>
+        <item>声音</item>
+        <item>影像</item>
+        <item>单向历</item>
+        <item>搜索</item>
+    </string-array>
+
+    <!-- 定义用户页面数据 -->
+    <string-array name="user">
+        <item>消息</item>
+        <item>收藏</item>
+        <item>评论</item>
+        <item>离线</item>
+    </string-array>
+
+</resources>

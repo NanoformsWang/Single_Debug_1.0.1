@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">单读</string>
+
+    <string name="bottom">Powered by OWSPACE</string>
+    <string name="we_read_the_world">We Read The World</string>
+    <string name="read">單 讀</string>
+    <string name="single_space">單向空間</string>
+    <string name="owspace">O W S P A C E</string>
+    <string name="version">version 1.1.0"</string>
+    <string name="login">登录</string>
+
+
+    <string name="setting">设置</string>
+    <string name="message">消息推送</string>
+    <string name="cache">清除缓存</string>
+    <string name="font">正文字号</string>
+    <string name="traffic">3G/4G流量离线缓存</string>
+    <string name="about">关于</string>
+    <string name="suggestion_option">意见反馈</string>
+    <string name="setting_version">版本更新</string>
+    <string name="setting_version_number">V 1.1.0</string>
+
+
+    <string name="suggestion">反馈</string>
+    <string name="suggestion_content">反馈内容</string>
+    <string name="send_option">发送</string>
+
+
+</resources>
